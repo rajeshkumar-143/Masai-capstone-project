@@ -1,4 +1,3 @@
-%%writefile README.md
 # Zepto GenAI Service
 
 This project implements a small but complete Generative AI (GenAI) service for Zepto, designed to answer policy-related customer inquiries. It leverages a RAG (Retrieval Augmented Generation) pipeline orchestrated by LangGraph, with a FastAPI application serving the API. The service is runnable locally and includes a Dockerfile for containerization.
