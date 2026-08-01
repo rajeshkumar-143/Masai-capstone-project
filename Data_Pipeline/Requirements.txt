@@ -1,0 +1,6 @@
+Python 3.12.13
+requests
+beautifulsoup4
+pandas
+SQLAlchemy 
+pandas.to_sql can use this engine
