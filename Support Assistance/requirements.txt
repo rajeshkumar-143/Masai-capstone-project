@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+nest_asyncio
+langgraph
+chromadb
+sentence-transformers
+pydantic
+requests
+pydantic_core<2.13.0
