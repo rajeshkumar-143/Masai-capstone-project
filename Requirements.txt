@@ -15,3 +15,24 @@ chromadb
 sentence-transformers
 pydantic
 pydantic_core<2.13.0
+__________________________________________________
+fastapi
+uvicorn
+nest_asyncio
+langgraph
+chromadb
+sentence-transformers
+pydantic
+requests
+pydantic_core<2.13.0
+beautifulsoup4
+pandas
+SQLAlchemy
+imbalanced-learn
+joblib
+matplotlib
+numpy
+scikit-learn
+seaborn
+__________________________________________________
+Python: 3.12.13  pydantic_core: <2.13.0  
