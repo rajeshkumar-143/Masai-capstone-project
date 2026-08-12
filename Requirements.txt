@@ -1,0 +1,17 @@
+Project 1 & 2: Data Analysis & Web Scraping
+pandas
+numpy
+seaborn
+matplotlib
+requests
+beautifulsoup4
+
+Project 3: Zepto GenAI RAG Service
+fastapi
+uvicorn
+nest-asyncio
+langgraph
+chromadb
+sentence-transformers
+pydantic
+pydantic_core<2.13.0
